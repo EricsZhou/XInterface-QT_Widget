@@ -1,0 +1,14 @@
+﻿  Spout.cpp
+  SpoutCopy.cpp
+  SpoutDirectX.cpp
+  SpoutFrameCount.cpp
+  SpoutGL.cpp
+  SpoutGLextensions.cpp
+  SpoutReceiver.cpp
+  SpoutSender.cpp
+  SpoutSenderNames.cpp
+  SpoutSharedMemory.cpp
+  SpoutUtils.cpp
+  Generating Code...
+     Creating library D:\Development\Qt\Examples\Qt-5.15.2\opengl\study\untitled\SpoutGL\VS2017\x64\Debug\Spout.lib and object D:\Development\Qt\Examples\Qt-5.15.2\opengl\study\untitled\SpoutGL\VS2017\x64\Debug\Spout.exp
+  SpoutSDK.vcxproj -> D:\Development\Qt\Examples\Qt-5.15.2\opengl\study\untitled\SpoutGL\VS2017\x64\Debug\Spout.dll

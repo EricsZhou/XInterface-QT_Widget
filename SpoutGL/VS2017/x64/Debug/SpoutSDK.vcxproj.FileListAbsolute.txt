@@ -1,0 +1,2 @@
+D:\Qt\mrstage-qt\Spout2-2.007f\SPOUTSDK\SpoutGL\VS2017\x64\Debug\Spout.dll
+D:\Development\Qt\Examples\Qt-5.15.2\opengl\study\untitled\SpoutGL\VS2017\x64\Debug\Spout.dll

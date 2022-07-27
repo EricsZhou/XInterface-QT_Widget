@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/button.png</file>
+        <file>Resource/Vector.png</file>
+        <file>Resource/close.png</file>
+        <file>Resource/open.png</file>
+        <file>Resource/Group.png</file>
+        <file>Resource/sliderHander.png</file>
+    </qresource>
+</RCC>
